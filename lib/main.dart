@@ -37,3 +37,5 @@ class _SoruSayfasiState extends State<SoruSayfasi> {
     return const Placeholder();
   }
 }
+
+
